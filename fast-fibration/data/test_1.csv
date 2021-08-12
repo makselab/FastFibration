@@ -1,0 +1,12 @@
+Source,Target,Type
+1,2,positive
+2,1,positive
+3,1,positive
+3,4,positive
+4,2,negative
+4,3,positive
+4,5,positive
+6,3,negative
+7,4,negative
+8,6,positive
+8,7,positive
